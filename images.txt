@@ -1,2 +1,14 @@
-gcr.io/k8s-minikube/kicbase:v0.0.47
-mysql:5.7
+docker.elastic.com/apm/apm-server:8.7.1
+docker.elastic.com/elasticsearch/elasticsearch:8.7.1
+docker.elastic.com/beats/filebeat:8.7.1
+docker.elastic.com/kibana/kibana:8.7.1
+docker.elastic.com/logstash/logstash:8.7.1
+
+ghcr.io/chaos-mesh/chaos-daemon:v2.5.1
+ghcr.io/chaos-mesh/chaos-dashboard:v2.5.1
+ghcr.io/chaos-mesh/chaos-mesh:v2.5.1
+
+docker.io/istio/pilot:1.18.2
+docker.io/istio/proxyv2:1.18.2
+
+
