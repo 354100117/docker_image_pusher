@@ -1,3 +1,4 @@
 # dustynv/vllm:r36.4.0
 # helenzhang0804/flexgen
-dustynv/sglang:r36.4.0
+# dustynv/sglang:r36.4.0
+dustynv/sglang:0.4.7-r36.4-cu128-24.04
